@@ -1,0 +1,7 @@
+modal
+pandas
+fastai
+xgboost
+bentoml
+scikit-learn
+torch
